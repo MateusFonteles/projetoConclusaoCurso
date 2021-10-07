@@ -1,0 +1,52 @@
+{
+  "postagens": [
+    {
+      "id": 2,
+      "titulo": "Caneta BIC",
+      "texto": "2.00",
+      "link": "asdf"
+    },
+    {
+      "id": 1,
+      "titulo": "Caneta BIC azul",
+      "texto": "3.00",
+      "link": "ashrhdf"
+    },
+    {
+      "id": 1,
+      "titulo": "Caneta BIC preta",
+      "texto": "4.00",
+      "link": "asfhh"
+    },
+    {
+      "titulo": "Postagem de teste",
+      "texto": "ahahhha",
+      "link": "asdwe2cw",
+      "id": 3
+    },
+    {
+      "titulo": "Postagem de teste",
+      "texto": "ahahhha",
+      "link": "asdwe2cw",
+      "id": 4
+    },
+    {
+      "titulo": "dsf",
+      "texto": "dsgw",
+      "link": "bvbcyty",
+      "id": 5
+    },
+    {
+      "titulo": "1",
+      "texto": "2",
+      "link": "3",
+      "id": 6
+    },
+    {
+      "titulo": "",
+      "texto": "2",
+      "link": "",
+      "id": 7
+    }
+  ]
+}
